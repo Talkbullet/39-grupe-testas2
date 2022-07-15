@@ -1,0 +1,5 @@
+body {background-color: #D4E6FE;}
+.contact-form {width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;}
